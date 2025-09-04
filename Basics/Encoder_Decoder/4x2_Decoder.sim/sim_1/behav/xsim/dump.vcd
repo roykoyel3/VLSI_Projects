@@ -1,0 +1,49 @@
+$date
+   Mon Aug 11 17:07:32 2025
+$end
+
+$version
+  2025.1.0
+  $dumpfile ("dump.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module encoder4x2_tb $end
+$var reg 4 ! d [3:0] $end
+$var wire 1 " out $end
+$upscope $end
+$scope module glbl $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+b0 !
+x"
+$end
+
+#5000
+b1 !
+0"
+
+#10000
+b10 !
+1"
+
+#15000
+b100 !
+0"
+
+#20000
+b1000 !
+1"
+
+#25000
+b10 !
+
+#30000
+b100 !
+0"

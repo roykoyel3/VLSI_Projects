@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a=0 b=0 sum=0 carry=0
+a=0 b=1 sum=1 carry=0
+a=1 b=0 sum=1 carry=0
+a=1 b=1 sum=0 carry=1
+$stop called at time : 40 ns : File "D:/verilog/Half_Adder/Half_Adder.srcs/sim_1/new/half_adder_tb.v" Line 45

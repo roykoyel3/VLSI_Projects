@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/Voting_Machine/Voting_Machine.srcs/sources_1/new/evm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module buttonControl
+INFO: [VRFC 10-311] analyzing module modeControl
+INFO: [VRFC 10-311] analyzing module voteLogger
+INFO: [VRFC 10-311] analyzing module votingMachine
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/Voting_Machine/Voting_Machine.srcs/sim_1/new/evm_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module evm_tb

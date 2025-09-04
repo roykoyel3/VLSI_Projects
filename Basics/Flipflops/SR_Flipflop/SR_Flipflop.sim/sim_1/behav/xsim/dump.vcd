@@ -1,0 +1,93 @@
+$date
+   Mon Aug 11 23:54:38 2025
+$end
+
+$version
+  2025.1.0
+  $dumpfile ("dump.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module srff_tb $end
+$var reg 2 ! sr [1:0] $end
+$var reg 2 " clk [1:0] $end
+$var wire 1 # q $end
+$var wire 1 $ qb $end
+$upscope $end
+$scope module glbl $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+b0 !
+b0 "
+x#
+x$
+$end
+
+#2000
+b11 "
+
+#4000
+b0 "
+
+#5000
+b1 !
+
+#6000
+b11 "
+0#
+1$
+
+#8000
+b0 "
+
+#10000
+b10 !
+b11 "
+1#
+0$
+
+#12000
+b0 "
+
+#14000
+b11 "
+
+#15000
+b11 !
+
+#16000
+b0 "
+
+#18000
+b11 "
+z#
+x$
+
+#20000
+b10 !
+b0 "
+
+#22000
+b11 "
+1#
+0$
+
+#24000
+b0 "
+
+#25000
+b1 !
+
+#26000
+b11 "
+0#
+1$
+
+#28000
+b0 "

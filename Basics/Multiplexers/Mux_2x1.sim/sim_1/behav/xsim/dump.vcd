@@ -1,0 +1,43 @@
+$date
+   Mon Aug 11 11:18:16 2025
+$end
+
+$version
+  2025.1.0
+  $dumpfile ("dump.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module mux2x1_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # sel $end
+$var wire 1 $ out $end
+$upscope $end
+$scope module glbl $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+1"
+0#
+0$
+$end
+
+#5000
+1!
+0"
+1#
+
+#10000
+0#
+1$
+
+#15000
+1"
+1#

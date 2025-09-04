@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/T_Flipflop/T_Flipflop.srcs/sources_1/new/tff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tff
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/T_Flipflop/T_Flipflop.srcs/sim_1/new/tff_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tff_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/T_Flipflop/T_Flipflop.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

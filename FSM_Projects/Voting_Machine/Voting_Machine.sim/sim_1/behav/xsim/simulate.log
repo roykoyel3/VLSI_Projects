@@ -1,0 +1,33 @@
+Time resolution is 1 ps
+                   0mode=0, button1=0, button2=0, button3=0, button4=0, led=  x
+                   5mode=0, button1=0, button2=0, button3=0, button4=0, led=  0
+                 205mode=0, button1=1, button2=0, button3=0, button4=0, led=  0
+                 215mode=0, button1=0, button2=0, button3=0, button4=0, led=  0
+                 220mode=0, button1=1, button2=0, button3=0, button4=0, led=  0
+                 345mode=0, button1=1, button2=0, button3=0, button4=0, led=255
+                 420mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                 445mode=0, button1=0, button2=1, button3=0, button4=0, led=  0
+                 565mode=0, button1=0, button2=1, button3=0, button4=0, led=255
+                 645mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                 665mode=0, button1=0, button2=0, button3=0, button4=0, led=  0
+                 670mode=0, button1=0, button2=1, button3=1, button4=0, led=  0
+                 795mode=0, button1=0, button2=1, button3=1, button4=0, led=255
+                 870mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                 895mode=1, button1=0, button2=1, button3=0, button4=0, led=255
+                1005mode=1, button1=0, button2=1, button3=0, button4=0, led=  2
+                1095mode=1, button1=0, button2=0, button3=1, button4=0, led=  2
+                1100mode=0, button1=0, button2=0, button3=0, button4=0, led=  2
+                1105mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                1115mode=0, button1=0, button2=0, button3=0, button4=0, led=  0
+                1120mode=0, button1=0, button2=0, button3=1, button4=0, led=  0
+                1245mode=0, button1=0, button2=0, button3=1, button4=0, led=255
+                1320mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                1345mode=0, button1=0, button2=0, button3=1, button4=1, led=  0
+                1465mode=0, button1=0, button2=0, button3=1, button4=1, led=255
+                1545mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                1565mode=0, button1=0, button2=0, button3=0, button4=0, led=  0
+                1570mode=0, button1=0, button2=0, button3=0, button4=1, led=  0
+                1695mode=0, button1=0, button2=0, button3=0, button4=1, led=255
+                1770mode=1, button1=0, button2=0, button3=0, button4=1, led=255
+                1785mode=0, button1=0, button2=0, button3=0, button4=0, led=255
+                1795mode=0, button1=0, button2=0, button3=0, button4=0, led=  0

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Aug 11 23:26:01 2025
+# Process ID         : 20660
+# Current directory  : D:/verilog/Decode_2x4/Decode_2x4.runs/synth_1
+# Command line       : vivado.exe -log decoder2x4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder2x4.tcl
+# Log file           : D:/verilog/Decode_2x4/Decode_2x4.runs/synth_1/decoder2x4.vds
+# Journal file       : D:/verilog/Decode_2x4/Decode_2x4.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-SKO29TK
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-1230U
+# CPU Frequency      : 1690 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16858 MB
+# Swap memory        : 6979 MB
+# Total Virtual      : 23837 MB
+# Available Virtual  : 8914 MB
+#-----------------------------------------------------------
+source decoder2x4.tcl -notrace
