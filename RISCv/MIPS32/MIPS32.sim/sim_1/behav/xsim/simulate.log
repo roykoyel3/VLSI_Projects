@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+R0 -  0
+R1 -  0
+R2 -  0
+R3 -  0
+R4 -  4
+R5 - 10
+$finish called at time : 300 ns : File "D:/verilog/MIPS32/MIPS32.srcs/sim_1/new/pipeMIPS32_tb.v" Line 64
